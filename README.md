@@ -40,7 +40,7 @@
 </div>
 <br>
 <br>
-<div >
+<div align='center' >
 
 <a href="https://linkedin.com/in/juelhossainnn" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Juel Hossain-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
