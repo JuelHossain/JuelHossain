@@ -18,10 +18,10 @@
 <br>
 
 - A passionate Self-taught Web developer
-- 2 Years of learniing experience .
+- 5+ Years of working experience .
 - Currently learning advanced technologies .
 - Personal website [link](https://juel-hossain.com)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1soDc9CeOvo5tlYuqO-Rpa4ygy-G_tV97/view)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1aZ86RuKGsdX5TNHWp8Q9cDlUYpJPcRSU/view?usp=share_link)
 
 <br><br>
 
