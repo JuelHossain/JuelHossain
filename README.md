@@ -21,7 +21,7 @@
 - 6+ Years of working experience .
 - Currently learning advanced technologies .
 - Personal website [link](https://juel-hossain.com)
-- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1aZ86RuKGsdX5TNHWp8Q9cDlUYpJPcRSU/view?usp=share_link)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1VDf3zitLu6WrzPbdd6EsJ1BlC4tl0s0R/view)
 
 <br><br>
 
